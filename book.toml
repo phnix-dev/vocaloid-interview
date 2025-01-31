@@ -1,0 +1,7 @@
+[book]
+authors = ["phnix-dev"]
+language = "en"
+multilingual = false
+src = "markdown"
+title = "Vocaloid Interview"
+description = "Copy of vgperson.com/vocalinterview.php"
